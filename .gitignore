@@ -83,7 +83,7 @@ celerybeat-schedule
 .env
 
 # txt data
-.txt
+*.txt
 
 # virtualenv
 .venv
